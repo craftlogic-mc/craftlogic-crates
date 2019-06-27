@@ -1,0 +1,32 @@
+{
+  "crate_open": {
+    "category": "ambient",
+    "subtitle": "craftlogic-crates.subtitle.open",
+    "sounds": [ "craftlogic-crates:open" ]
+  },
+  "crate_reveal": {
+    "category": "ambient",
+    "subtitle": "craftlogic-crates.subtitle.reveal",
+    "sounds": [ "craftlogic-crates:reveal" ]
+  },
+  "crate_disappear": {
+    "category": "ambient",
+    "subtitle": "craftlogic-crates.subtitle.disappear",
+    "sounds": [ "craftlogic-crates:disappear" ]
+  },
+  "crate_drop_parachute": {
+    "category": "ambient",
+    "subtitle": "craftlogic-crates.subtitle.drop_parachute",
+    "sounds": [ "craftlogic-crates:drop_parachute" ]
+  },
+  "crate_break": {
+    "category": "ambient",
+    "subtitle": "craftlogic-crates.subtitle.break",
+    "sounds": [ "craftlogic-crates:break" ]
+  },
+  "crate_tick": {
+    "category": "ambient",
+    "subtitle": "craftlogic-crates.subtitle.tick",
+    "sounds": [ "craftlogic-crates:tick" ]
+  }
+}

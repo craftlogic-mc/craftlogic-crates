@@ -1,0 +1,4 @@
+tooltip.supply_crate.scheduled=Supply crate drop
+tooltip.supply_crate.dropped=Supply crate (%d b.)
+
+tile.crate.name=Crate

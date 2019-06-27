@@ -1,0 +1,4 @@
+tooltip.supply_crate.scheduled=Сброс ящиков с припасами
+tooltip.supply_crate.dropped=Ящик с припасами (%s б.)
+
+tile.crate.name=Ящик
